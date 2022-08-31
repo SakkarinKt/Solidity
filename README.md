@@ -1,8 +1,8 @@
 # Solidity
-Solidity code practicing
+Solidity code practicing when I bored.
 
 ## Table of contents
-1. Non-Fungible Token(NFT).
+1. Non-Fungible Token(NFT)
 2. Decentralized Apps.
 
 ## Technologies
